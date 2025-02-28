@@ -35,3 +35,6 @@
 박진수: 데이터 준비, 프로젝트 진행정보 정리
 
 박현근: 데이터 준비, 발표
+
+## 시스템 구조:
+![Image](https://github.com/user-attachments/assets/655d1481-1a76-4252-9243-599b2c156ecc)
